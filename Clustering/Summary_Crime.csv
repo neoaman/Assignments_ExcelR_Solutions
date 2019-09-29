@@ -1,0 +1,8 @@
+"","         X","    Murder","   Assault","   UrbanPop","     Rape"
+"","Alabama   : 1  ","Min.   : 0.800  ","Min.   : 45.0  ","Min.   :32.00  ","Min.   : 7.30  "
+"","Alaska    : 1  ","1st Qu.: 4.075  ","1st Qu.:109.0  ","1st Qu.:54.50  ","1st Qu.:15.07  "
+"","Arizona   : 1  ","Median : 7.250  ","Median :159.0  ","Median :66.00  ","Median :20.10  "
+"","Arkansas  : 1  ","Mean   : 7.788  ","Mean   :170.8  ","Mean   :65.54  ","Mean   :21.23  "
+"","California: 1  ","3rd Qu.:11.250  ","3rd Qu.:249.0  ","3rd Qu.:77.75  ","3rd Qu.:26.18  "
+"","Colorado  : 1  ","Max.   :17.400  ","Max.   :337.0  ","Max.   :91.00  ","Max.   :46.00  "
+"","(Other)   :44  ",NA,NA,NA,NA

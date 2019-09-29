@@ -1,0 +1,7 @@
+"","    Price","  Age_08_04","      KM","      HP","      cc","    Doors","    Gears","Quarterly_Tax","    Weight"
+"","Min.   : 4350  ","Min.   : 1.00  ","Min.   :     1  ","Min.   : 69.0  ","Min.   : 1300  ","Min.   :2.000  ","Min.   :3.000  ","Min.   : 19.00  ","Min.   :1000  "
+"","1st Qu.: 8450  ","1st Qu.:44.00  ","1st Qu.: 43000  ","1st Qu.: 90.0  ","1st Qu.: 1400  ","1st Qu.:3.000  ","1st Qu.:5.000  ","1st Qu.: 69.00  ","1st Qu.:1040  "
+"","Median : 9900  ","Median :61.00  ","Median : 63390  ","Median :110.0  ","Median : 1600  ","Median :4.000  ","Median :5.000  ","Median : 85.00  ","Median :1070  "
+"","Mean   :10731  ","Mean   :55.95  ","Mean   : 68533  ","Mean   :101.5  ","Mean   : 1577  ","Mean   :4.033  ","Mean   :5.026  ","Mean   : 87.12  ","Mean   :1072  "
+"","3rd Qu.:11950  ","3rd Qu.:70.00  ","3rd Qu.: 87021  ","3rd Qu.:110.0  ","3rd Qu.: 1600  ","3rd Qu.:5.000  ","3rd Qu.:5.000  ","3rd Qu.: 85.00  ","3rd Qu.:1085  "
+"","Max.   :32500  ","Max.   :80.00  ","Max.   :243000  ","Max.   :192.0  ","Max.   :16000  ","Max.   :5.000  ","Max.   :6.000  ","Max.   :283.00  ","Max.   :1615  "

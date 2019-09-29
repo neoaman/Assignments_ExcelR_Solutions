@@ -1,0 +1,7 @@
+"","   Balance","  Qual_miles"," Bonus_miles"," Bonus_trans","Flight_miles_12mo","Flight_trans_12","Days_since_enroll","    Award.","cc1_miles","cc2_miles","cc3_miles"
+"","Min.   :      0  ","Min.   :    0.0  ","Min.   :     0  ","Min.   : 0.0  ","Min.   :    0.0  ","Min.   : 0.000  ","Min.   :   2  ","Min.   :0.0000  ","1:2289  ","1:3956  ","1:3981  "
+"","1st Qu.:  18528  ","1st Qu.:    0.0  ","1st Qu.:  1250  ","1st Qu.: 3.0  ","1st Qu.:    0.0  ","1st Qu.: 0.000  ","1st Qu.:2330  ","1st Qu.:0.0000  ","2: 284  ","2:  28  ","2:   3  "
+"","Median :  43097  ","Median :    0.0  ","Median :  7171  ","Median :12.0  ","Median :    0.0  ","Median : 0.000  ","Median :4096  ","Median :0.0000  ","3: 613  ","3:  15  ","3:   4  "
+"","Mean   :  73601  ","Mean   :  144.1  ","Mean   : 17145  ","Mean   :11.6  ","Mean   :  460.1  ","Mean   : 1.374  ","Mean   :4119  ","Mean   :0.3703  ","4: 525  ",NA,"4:   6  "
+"","3rd Qu.:  92404  ","3rd Qu.:    0.0  ","3rd Qu.: 23801  ","3rd Qu.:17.0  ","3rd Qu.:  311.0  ","3rd Qu.: 1.000  ","3rd Qu.:5790  ","3rd Qu.:1.0000  ","5: 288  ",NA,"5:   5  "
+"","Max.   :1704838  ","Max.   :11148.0  ","Max.   :263685  ","Max.   :86.0  ","Max.   :30817.0  ","Max.   :53.000  ","Max.   :8296  ","Max.   :1.0000  ",NA,NA,NA

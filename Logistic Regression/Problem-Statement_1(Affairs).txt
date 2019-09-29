@@ -1,0 +1,9 @@
+I have a dataset containing family information of married couples, which have around 10 variables & 600+ observations. 
+Independent variables are ~ gender, age, years married, children, religion etc.
+I have one response variable which is number of extra marital affairs.
+ Now, I want to know what all factor influence the chances of extra marital affair.
+Since extra marital affair is a binary variable (either a person will have or not), 
+so we can fit logistic regression model here to predict the probability of extra marital affair.
+
+install.packages('AER')
+data(Affairs,package="AER")

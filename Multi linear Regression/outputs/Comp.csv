@@ -1,0 +1,7 @@
+"","      X","    price","    speed","      hd","     ram","    screen","  cd","multi","premium","     ads","    trend"
+"","Min.   :   1  ","Min.   : 949  ","Min.   : 25.00  ","Min.   :  80.0  ","Min.   : 2.000  ","Min.   :14.00  ","no :3351  ","no :5386  ","no : 612  ","Min.   : 39.0  ","Min.   : 1.00  "
+"","1st Qu.:1566  ","1st Qu.:1794  ","1st Qu.: 33.00  ","1st Qu.: 214.0  ","1st Qu.: 4.000  ","1st Qu.:14.00  ","yes:2908  ","yes: 873  ","yes:5647  ","1st Qu.:162.5  ","1st Qu.:10.00  "
+"","Median :3130  ","Median :2144  ","Median : 50.00  ","Median : 340.0  ","Median : 8.000  ","Median :14.00  ",NA,NA,NA,"Median :246.0  ","Median :16.00  "
+"","Mean   :3130  ","Mean   :2220  ","Mean   : 52.01  ","Mean   : 416.6  ","Mean   : 8.287  ","Mean   :14.61  ",NA,NA,NA,"Mean   :221.3  ","Mean   :15.93  "
+"","3rd Qu.:4694  ","3rd Qu.:2595  ","3rd Qu.: 66.00  ","3rd Qu.: 528.0  ","3rd Qu.: 8.000  ","3rd Qu.:15.00  ",NA,NA,NA,"3rd Qu.:275.0  ","3rd Qu.:21.50  "
+"","Max.   :6259  ","Max.   :5399  ","Max.   :100.00  ","Max.   :2100.0  ","Max.   :32.000  ","Max.   :17.00  ",NA,NA,NA,"Max.   :339.0  ","Max.   :35.00  "

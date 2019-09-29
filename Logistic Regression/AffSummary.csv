@@ -1,0 +1,7 @@
+"","      X","   gender","     age"," yearsmarried","children","religiousness","  education","  occupation","    rating"," EMA"
+"","Min.   :   4.0  ","female:313  ","Min.   :17.50  ","Min.   : 0.125  ","no :170  ","Min.   :1.000  ","Min.   : 9.00  ","Min.   :1.0  ","Min.   :1.000  ","no :447  "
+"","1st Qu.: 524.5  ","male  :283  ","1st Qu.:27.00  ","1st Qu.: 4.000  ","yes:426  ","1st Qu.:2.000  ","1st Qu.:14.00  ","1st Qu.:3.0  ","1st Qu.:3.000  ","yes:149  "
+"","Median : 998.5  ",NA,"Median :32.00  ","Median : 7.000  ",NA,"Median :3.000  ","Median :16.00  ","Median :5.0  ","Median :4.000  ",NA
+"","Mean   : 993.0  ",NA,"Mean   :32.46  ","Mean   : 8.147  ",NA,"Mean   :3.119  ","Mean   :16.17  ","Mean   :4.2  ","Mean   :3.933  ",NA
+"","3rd Qu.:1447.0  ",NA,"3rd Qu.:37.00  ","3rd Qu.:15.000  ",NA,"3rd Qu.:4.000  ","3rd Qu.:18.00  ","3rd Qu.:6.0  ","3rd Qu.:5.000  ",NA
+"","Max.   :1960.0  ",NA,"Max.   :57.00  ","Max.   :15.000  ",NA,"Max.   :5.000  ","Max.   :20.00  ","Max.   :7.0  ","Max.   :5.000  ",NA
