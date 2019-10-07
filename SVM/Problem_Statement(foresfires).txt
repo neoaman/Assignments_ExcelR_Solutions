@@ -1,0 +1,1 @@
+Prepare support vector machines model for classifying the area under fire for foresfires data
